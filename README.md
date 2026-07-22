@@ -1,6 +1,6 @@
 # Open Test Reporting Maven Plugin
 
-[Maven report plugin](https://maven.apache.org/plugin-tools/maven-plugin-report-plugin/) for [open-test-reporting](https://github.com/ota4j-team/open-test-reporting).
+[Maven report plugin](https://maven.apache.org/guides/plugin/guide-java-report-plugin-development.html) for [open-test-reporting](https://github.com/ota4j-team/open-test-reporting).
 
 ## Context
 
